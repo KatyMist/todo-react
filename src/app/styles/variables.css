@@ -1,0 +1,35 @@
+:root {
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+
+  --color-dark-1: #1E1E1E;
+  --color-dark-2: #2C2C2C;
+
+  --color-gray-1: #F5F5F5;
+  --color-gray-2: #D9D9D9;
+  --color-gray-3: #B3B3B3;
+  --color-gray-4: #757575;
+
+  --border: 1px solid var(--color-gray-2);
+  --border-radius: 8px;
+
+  --box-shadow: 0 4px 4px -4px rgba(12, 12, 13, 0.05), 0 16px 32px -4px rgba(12, 12, 13, 0.1);
+
+  --input-height: 40px;
+
+  --transition-duration: 0.2s;
+
+  /* === Glass theme === */
+  --color-page-bg-1: #F5EDE3;
+  --color-page-bg-2: #E4D5C3;
+
+  --color-glass-bg: rgba(255, 255, 255, 0.12);
+  --color-glass-bg-hover: rgba(255, 255, 255, 0.2);
+  --color-glass-border: rgba(255, 255, 255, 0.35);
+  --color-glass-shine: rgba(255, 255, 255, 0.22);
+
+  --color-text-on-glass: #214438;
+  --color-text-on-glass-muted: rgba(33, 68, 56, 0.65);
+
+  --blur-glass: 20px;
+}
