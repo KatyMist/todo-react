@@ -1,12 +1,45 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo React — Task Manager
 
-Currently, two official plugins are available:
+**Учебный проект для изучения основ React**<br>
+**Learning project to master React fundamentals**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<a href="https://katymist.github.io/todo-react/"><img src="https://img.shields.io/badge/ОТКРЫТЬ_ДЕМО-GITHUB_PAGES-2f7bd8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1b2a4a" alt="Открыть демо"></a>
 
-## Expanding the ESLint configuration
+<img src="https://skillicons.dev/icons?i=react,vite,sass,js,github" alt="React, Vite, Sass, JavaScript, GitHub">
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img src="https://img.shields.io/badge/RU-Русский-2f7bd8?labelColor=1b2a4a" alt="Русский"> <img src="https://img.shields.io/badge/EN-English-2f7bd8?labelColor=1b2a4a" alt="English">
+
+<!-- Скриншот-мокап: замени ССЫЛКА_НА_СКРИН на ссылку из GitHub user-attachments -->
+<a href="https://katymist.github.io/todo-react/">
+  <img width="2800" height="1550" alt="image" src="https://github.com/user-attachments/assets/dddc7a77-1a33-4b2e-994a-f17cd8a28388" />
+</a>
+
+</div>
+
+<br>
+
+> [!NOTE]
+> **О проекте.** Todo-приложение, написанное по видеоуроку на YouTube для практики React: компоненты, состояние, работа с API.
+>
+> **About the project.** A todo app built along a YouTube tutorial to practice React: components, state and working with an API.
+
+---
+
+## Запуск · Run
+
+```bash
+npm install
+npm run dev      # Vite
+npm run server   # json-server, порт / port 3001
+```
+
+---
+
+<div align="center">
+
+**Екатерина Туманова · Ekaterina Tumanova** — Frontend Developer & Designer<br>
+<a href="https://github.com/KatyMist">GitHub</a> · <a href="https://katymist.github.io/Portfolio/">Portfolio</a>
+
+</div>
